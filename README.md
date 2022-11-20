@@ -1,1 +1,1 @@
-# seller
+# customer
